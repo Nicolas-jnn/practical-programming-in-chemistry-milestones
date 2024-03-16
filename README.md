@@ -7,7 +7,6 @@ The **personal milestones table** outlines key milestones for practical programm
 
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
-<<<<<<< HEAD
 | 1    | Github Account Created                      | https://github.com/Nicolas-jnn                                             | 
 | 1    | Github Profile Page                         | https://github.com/Nicolas-jnn/Nicolas-jnn                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/Nicolas-jnn/ppchem/commit/80c8140a393b88130dc616eb64c1f0e419898111               |
