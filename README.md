@@ -7,6 +7,7 @@ The **personal milestones table** outlines key milestones for practical programm
 
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
+<<<<<<< HEAD
 | 1    | Github Account Created                      | https://github.com/Nicolas-jnn                                             | 
 | 1    | Github Profile Page                         | https://github.com/Nicolas-jnn/Nicolas-jnn                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/Nicolas-jnn/ppchem/commit/80c8140a393b88130dc616eb64c1f0e419898111               |
@@ -14,7 +15,8 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a conda environment                  | https://github.com/Nicolas-jnn/ppchem/blob/main/env.yml      |
 | 1    | Fork a Repo                                 | https://github.com/Nicolas-jnn/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | https://github.com/Nicolas-jnn/ppchem/pull/1 |
-| 2    | (Optional) Review a Pull Request            | https://github.com/Nicolas-jnn/ppchem/pull/1#issuecomment-1962404969 |
+| 2    | (Optional) Review a Pull Request            | https://github.com/Nicolas-jnn/ppchem/pull/
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-
 
 **More milestones will be added throughout the course.**
 
