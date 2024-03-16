@@ -15,7 +15,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Fork a Repo                                 | https://github.com/Nicolas-jnn/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | https://github.com/Nicolas-jnn/ppchem/pull/1 |
 | 2    | (Optional) Review a Pull Request            | https://github.com/Nicolas-jnn/ppchem/pull/1#issuecomment-1962404969
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/Nicolas-jnn/ppchem/pull/2
 
 **More milestones will be added throughout the course.**
 
